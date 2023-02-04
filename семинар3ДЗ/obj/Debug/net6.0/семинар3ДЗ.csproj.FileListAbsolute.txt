@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.AssemblyInfo.cs
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашка\семинар3ДЗ\bin\Debug\net6.0\семинар3ДЗ.exe
+C:\Users\User\Desktop\домашка\семинар3ДЗ\bin\Debug\net6.0\семинар3ДЗ.deps.json
+C:\Users\User\Desktop\домашка\семинар3ДЗ\bin\Debug\net6.0\семинар3ДЗ.runtimeconfig.json
+C:\Users\User\Desktop\домашка\семинар3ДЗ\bin\Debug\net6.0\семинар3ДЗ.dll
+C:\Users\User\Desktop\домашка\семинар3ДЗ\bin\Debug\net6.0\семинар3ДЗ.pdb
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.dll
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\refint\семинар3ДЗ.dll
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.pdb
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\семинар3ДЗ.genruntimeconfig.cache
+C:\Users\User\Desktop\домашка\семинар3ДЗ\obj\Debug\net6.0\ref\семинар3ДЗ.dll
